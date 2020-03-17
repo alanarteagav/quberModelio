@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VistaCliente" version="4">
+  <OBJECT>
+    <ID name="VistaCliente" mc="Standard.Package" uid="8fc03654-8c18-48d2-80f3-c3134b06865d"/>
+    <PID name="Mirén" mc="Standard.Package" uid="0022cd7b-a5d0-43df-97ab-3f9d2ff9ee4d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[VistaCliente]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ClienteIH" mc="Standard.Class" uid="18a00142-3a4a-43a2-babc-88479ca25a01"/>
+        <COMPID name="MensajeIH" mc="Standard.Class" uid="aa6ca789-6437-4c33-a328-7702c15f9aba"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

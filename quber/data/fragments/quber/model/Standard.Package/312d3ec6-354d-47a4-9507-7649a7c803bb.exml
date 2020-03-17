@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ModeloCliente" version="4">
+  <OBJECT>
+    <ID name="ModeloCliente" mc="Standard.Package" uid="312d3ec6-354d-47a4-9507-7649a7c803bb"/>
+    <PID name="Mirén" mc="Standard.Package" uid="0022cd7b-a5d0-43df-97ab-3f9d2ff9ee4d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ModeloCliente]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Cliente" mc="Standard.Class" uid="e19c990e-cef1-4bea-bdb4-e197e7fe137f"/>
+        <COMPID name="ConexionBD" mc="Standard.Class" uid="dd14858b-0d8f-4b82-bb32-4f346f5a117e"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
