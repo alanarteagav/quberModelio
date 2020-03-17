@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VistaVerContenidoDelCarrito" version="4">
+  <OBJECT>
+    <ID name="VistaVerContenidoDelCarrito" mc="Standard.Package" uid="b092d3a0-13fc-4178-ba9e-dee3ded2a7d4"/>
+    <PID name="Ver Contenido del Carrito" mc="Standard.Package" uid="9d98e05d-1d47-460a-b23b-f326926b3d3b"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[VistaVerContenidoDelCarrito]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="VerCarritoIH" mc="Standard.Class" uid="33a27af6-fab8-4005-882b-e4615d5a36c2"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorAgregarComida" version="4">
+  <OBJECT>
+    <ID name="ControladorAgregarComida" mc="Standard.Package" uid="201a090d-5bf7-450e-bd89-106fa0e8632c"/>
+    <PID name="Agregar Comida" mc="Standard.Package" uid="c21a5160-182a-438b-8536-06e0ca892811"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ControladorAgregarComida]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ListarAlimentos" mc="Standard.Class" uid="176101ad-d445-49e1-9b3e-d8866166bc24"/>
+        <COMPID name="AgregaComida" mc="Standard.Class" uid="4de61fdd-af91-49c3-8e53-1678f57c534c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

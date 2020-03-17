@@ -15,6 +15,10 @@
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
         <COMPID name="Ver Menu" mc="Standard.Package" uid="d914bf26-8304-4eae-9196-d490438c09b6"/>
+        <COMPID name="Agregar Comida" mc="Standard.Package" uid="c21a5160-182a-438b-8536-06e0ca892811"/>
+        <COMPID name="Ver Contenido del Carrito" mc="Standard.Package" uid="9d98e05d-1d47-460a-b23b-f326926b3d3b"/>
+        <COMPID name="Completar Orden" mc="Standard.Package" uid="ec2126ff-1ced-48cf-aa90-0651eab4bbe8"/>
+        <COMPID name="Confirmar Dirección" mc="Standard.Package" uid="06732259-3232-4a1f-853b-ed273bf92ed2"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

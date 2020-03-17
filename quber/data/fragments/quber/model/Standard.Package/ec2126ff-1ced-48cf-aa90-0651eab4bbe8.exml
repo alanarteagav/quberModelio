@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Completar Orden" version="4">
+  <OBJECT>
+    <ID name="Completar Orden" mc="Standard.Package" uid="ec2126ff-1ced-48cf-aa90-0651eab4bbe8"/>
+    <PID name="Mauricio" mc="Standard.Package" uid="7573ad57-4f64-420b-8cac-834e6b445b34"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Completar Orden]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Product">
+        <COMPID name="Completar Orden" mc="Standard.ClassDiagram" uid="d3ee8ff4-3dc4-4451-b38d-5816af666e4b"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
