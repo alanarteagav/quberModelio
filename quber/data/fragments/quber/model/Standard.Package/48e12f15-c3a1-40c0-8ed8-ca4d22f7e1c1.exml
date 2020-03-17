@@ -12,6 +12,14 @@
       <ATT name="Name"><![CDATA[Modelo]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
-    <DEPENDENCIES></DEPENDENCIES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ConexionBD" mc="Standard.Class" uid="3d9d65b1-8c1c-4473-b2e8-520cf4b421cf"/>
+        <COMPID name="Alimento" mc="Standard.Class" uid="92f3959b-f402-4d71-8f0c-4a8a346304c0"/>
+        <COMPID name="Cliente" mc="Standard.Class" uid="aacab6e9-faaa-4073-9318-5f89c57713f5"/>
+        <COMPID name="Categoria" mc="Standard.Class" uid="c44d8d42-44d1-400d-a5f0-a065da550429"/>
+        <COMPID name="Repartidor" mc="Standard.Class" uid="d21a71ba-0c72-4133-a775-03e8362cf433"/>
+      </COMP>
+    </DEPENDENCIES>
   </OBJECT>
 </EXT>

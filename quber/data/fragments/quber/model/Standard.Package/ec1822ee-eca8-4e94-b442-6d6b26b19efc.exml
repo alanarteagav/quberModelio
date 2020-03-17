@@ -12,6 +12,16 @@
       <ATT name="Name"><![CDATA[Vista]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
-    <DEPENDENCIES></DEPENDENCIES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="AlimentoIH" mc="Standard.Class" uid="b3cea87b-b5c6-4a04-b0be-91c4ca3f2b64"/>
+        <COMPID name="MensajeIH" mc="Standard.Class" uid="119758b3-9467-4f53-a44a-f25e75d17ac3"/>
+        <COMPID name="PrincipalIH" mc="Standard.Class" uid="5f9c5447-44f2-4709-a3eb-42b51e506b41"/>
+        <COMPID name="ClienteIH" mc="Standard.Class" uid="bb719b73-ffe2-4c89-a93f-9ef61fc589d7"/>
+        <COMPID name="MenuCategoriasIH" mc="Standard.Class" uid="27a78f0a-5464-43e7-a4ba-6c836938a538"/>
+        <COMPID name="MenuPrincipalIH" mc="Standard.Class" uid="b40ef98a-bf87-463a-bad8-57e5b5de915f"/>
+        <COMPID name="RegistroRepartidorIH" mc="Standard.Class" uid="a59626e4-4627-4a94-b808-dffef136c49d"/>
+      </COMP>
+    </DEPENDENCIES>
   </OBJECT>
 </EXT>
