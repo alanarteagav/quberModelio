@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="RegistrarCliente" version="4">
   <OBJECT>
-    <ID name="RegistrarCliente" mc="Standard.Class" uid="67527ab0-499a-4e8f-8b30-648141e0c88b"/>
-    <PID name="ControladorCliente" mc="Standard.Package" uid="7452eabb-3cdd-495d-890d-99d006ceb3d4"/>
+    <ID name="RegistrarCliente" mc="Standard.Class" uid="1737cf15-a3f1-41a1-8baf-4019e2312a07"/>
+    <PID name="ControladorCliente" mc="Standard.Package" uid="18acf18f-c7ed-47f0-9b7c-eb615de73be3"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
       <ATT name="IsMain">false</ATT>
@@ -17,7 +17,7 @@
     <DEPENDENCIES>
       <COMP relation="OwnedOperation">
         <OBJECT>
-          <ID name="registrar" mc="Standard.Operation" uid="b3570883-8b01-4bad-b682-14fe2d13c9b9"/>
+          <ID name="registrar" mc="Standard.Operation" uid="3afc55d0-6960-47c9-be10-2969b5819365"/>
           <ATTRIBUTES>
             <ATT name="Concurrency">false</ATT>
             <ATT name="Final">false</ATT>
@@ -33,7 +33,7 @@
       </COMP>
       <COMP relation="OwnedAttribute">
         <OBJECT>
-          <ID name="cliente" mc="Standard.Attribute" uid="f12acd0b-b0f0-4acf-8142-c96fc3674160"/>
+          <ID name="cliente" mc="Standard.Attribute" uid="e7f3fa91-9d12-42a6-a697-b57ba5ce4be7"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>

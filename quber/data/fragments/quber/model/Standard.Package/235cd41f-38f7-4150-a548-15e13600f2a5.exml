@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ModeloCliente" version="4">
   <OBJECT>
-    <ID name="ModeloCliente" mc="Standard.Package" uid="312d3ec6-354d-47a4-9507-7649a7c803bb"/>
-    <PID name="Crear Cuenta" mc="Standard.Package" uid="503d3bdf-d799-4a1b-bfa1-fe156d849975"/>
+    <ID name="ModeloCliente" mc="Standard.Package" uid="235cd41f-38f7-4150-a548-15e13600f2a5"/>
+    <PID name="Crear Cuenta" mc="Standard.Package" uid="aca6c5a4-dff8-491f-af6c-178250218899"/>
     <ATTRIBUTES>
       <ATT name="IsInstantiable">false</ATT>
       <ATT name="IsAbstract">false</ATT>
@@ -14,8 +14,8 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="Cliente" mc="Standard.Class" uid="e19c990e-cef1-4bea-bdb4-e197e7fe137f"/>
-        <COMPID name="ConexionBD" mc="Standard.Class" uid="dd14858b-0d8f-4b82-bb32-4f346f5a117e"/>
+        <COMPID name="Cliente" mc="Standard.Class" uid="132daf90-199d-48e8-b99f-5d493fb26f7a"/>
+        <COMPID name="ConexionBD" mc="Standard.Class" uid="1d94815e-c64a-47cd-88b2-777cd493ebc9"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

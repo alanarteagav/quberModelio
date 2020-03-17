@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VistaCliente" version="4">
   <OBJECT>
-    <ID name="VistaCliente" mc="Standard.Package" uid="8fc03654-8c18-48d2-80f3-c3134b06865d"/>
-    <PID name="Crear Cuenta" mc="Standard.Package" uid="503d3bdf-d799-4a1b-bfa1-fe156d849975"/>
+    <ID name="VistaCliente" mc="Standard.Package" uid="bd551df4-b4c7-4176-8ea3-aee74134997f"/>
+    <PID name="Crear Cuenta" mc="Standard.Package" uid="aca6c5a4-dff8-491f-af6c-178250218899"/>
     <ATTRIBUTES>
       <ATT name="IsInstantiable">false</ATT>
       <ATT name="IsAbstract">false</ATT>
@@ -14,8 +14,8 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="ClienteIH" mc="Standard.Class" uid="18a00142-3a4a-43a2-babc-88479ca25a01"/>
-        <COMPID name="MensajeIH" mc="Standard.Class" uid="aa6ca789-6437-4c33-a328-7702c15f9aba"/>
+        <COMPID name="ClienteIH" mc="Standard.Class" uid="6b9cb07c-354d-422a-b37b-36720c8196f6"/>
+        <COMPID name="MensajeIH" mc="Standard.Class" uid="58cbc8c1-ac96-41be-9f78-051a4614779e"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

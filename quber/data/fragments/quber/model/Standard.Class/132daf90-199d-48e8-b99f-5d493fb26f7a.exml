@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Cliente" version="4">
   <OBJECT>
-    <ID name="Cliente" mc="Standard.Class" uid="e19c990e-cef1-4bea-bdb4-e197e7fe137f"/>
-    <PID name="ModeloCliente" mc="Standard.Package" uid="312d3ec6-354d-47a4-9507-7649a7c803bb"/>
+    <ID name="Cliente" mc="Standard.Class" uid="132daf90-199d-48e8-b99f-5d493fb26f7a"/>
+    <PID name="ModeloCliente" mc="Standard.Package" uid="235cd41f-38f7-4150-a548-15e13600f2a5"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
       <ATT name="IsMain">false</ATT>
@@ -17,7 +17,7 @@
     <DEPENDENCIES>
       <COMP relation="OwnedOperation">
         <OBJECT>
-          <ID name="guardarBD" mc="Standard.Operation" uid="4f4067e0-b74d-4ca4-a9b8-c1539eab5f75"/>
+          <ID name="guardarBD" mc="Standard.Operation" uid="b6338497-8c16-4f6f-abcf-725b96e87d45"/>
           <ATTRIBUTES>
             <ATT name="Concurrency">false</ATT>
             <ATT name="Final">false</ATT>
@@ -33,7 +33,7 @@
       </COMP>
       <COMP relation="OwnedAttribute">
         <OBJECT>
-          <ID name="nombres" mc="Standard.Attribute" uid="210d78dd-36a6-44b8-a6c1-e0bd6f867d96"/>
+          <ID name="nombres" mc="Standard.Attribute" uid="2028cd55-0b49-47ff-9bdc-37423a9aad74"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -57,7 +57,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="apellidoPaterno" mc="Standard.Attribute" uid="521dd350-560f-4e92-9bce-d8541a22956b"/>
+          <ID name="apellidoPaterno" mc="Standard.Attribute" uid="e230e10e-efa0-4b25-a9fa-b2af120c37c0"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -81,7 +81,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="apellidoMaterno" mc="Standard.Attribute" uid="0aa81da4-8fce-4cf2-a2a3-bd715ad7ecb3"/>
+          <ID name="apellidoMaterno" mc="Standard.Attribute" uid="8a479deb-44f0-4ce2-9396-983913d3af8e"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -105,7 +105,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="correoElectronico" mc="Standard.Attribute" uid="b027215a-dc20-4e49-9cf2-bb3eb4e5455b"/>
+          <ID name="correoElectronico" mc="Standard.Attribute" uid="7cbcf3ab-f3cd-47e1-bc96-57e1d9d617df"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -129,7 +129,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="nombreDeUsuario" mc="Standard.Attribute" uid="bc19d915-5a35-4bf1-b841-b39e53644505"/>
+          <ID name="nombreDeUsuario" mc="Standard.Attribute" uid="88a77020-4db4-4f52-a4d3-3babc156b885"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -153,7 +153,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="contraseña" mc="Standard.Attribute" uid="b0230f00-d3ca-4d2f-897a-adb4532c6408"/>
+          <ID name="contraseña" mc="Standard.Attribute" uid="321c04a3-7fa2-43ed-882f-9bfaf9cac077"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -177,7 +177,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="movil" mc="Standard.Attribute" uid="0c6be2a4-b205-4cbd-9a7e-28dab8abddc5"/>
+          <ID name="movil" mc="Standard.Attribute" uid="5560d559-785d-48f6-866b-c46526432903"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -201,7 +201,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="calle" mc="Standard.Attribute" uid="a8167775-3cb9-4104-815c-b6256e4856a5"/>
+          <ID name="calle" mc="Standard.Attribute" uid="03883206-74b7-4ae6-b13f-9f555d29bc5e"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -225,7 +225,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="numero" mc="Standard.Attribute" uid="61aa84f0-b704-4f2a-ae85-e50b4062604d"/>
+          <ID name="numero" mc="Standard.Attribute" uid="58a1bd72-99bc-434f-9942-939db6262430"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -248,7 +248,7 @@
             </LINK>
             <COMP relation="Descriptor">
               <OBJECT>
-                <ID name="" mc="Infrastructure.Note" uid="03269947-30a0-40f6-a4f6-cbff9a5b4b24"/>
+                <ID name="" mc="Infrastructure.Note" uid="f4175290-fdd5-4ec6-8be6-4183da9424d6"/>
                 <ATTRIBUTES>
                   <ATT name="Content"><![CDATA[<Enter note text here>]]></ATT>
                   <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
@@ -265,7 +265,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="extra" mc="Standard.Attribute" uid="62de9bb5-f3bd-40d0-94bf-acca1750dc35"/>
+          <ID name="extra" mc="Standard.Attribute" uid="927762c9-96ef-4593-b250-58b9e9962be2"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -289,7 +289,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="delegacion" mc="Standard.Attribute" uid="bf5ee9a6-6352-435c-8631-4066d24bd6d8"/>
+          <ID name="delegacion" mc="Standard.Attribute" uid="86e12bfc-2a0f-46b4-9bd9-d975da24fac8"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -312,7 +312,7 @@
             </LINK>
             <COMP relation="Descriptor">
               <OBJECT>
-                <ID name="" mc="Infrastructure.Note" uid="19816035-b346-495a-b304-ec233677534f"/>
+                <ID name="" mc="Infrastructure.Note" uid="d3db3b14-1948-4493-9047-20ccc3a8bdb5"/>
                 <ATTRIBUTES>
                   <ATT name="Content"><![CDATA[<Enter note text here>]]></ATT>
                   <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
@@ -329,7 +329,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="codigoPostal" mc="Standard.Attribute" uid="81c27e49-7d3d-4db8-b33c-9389cdc45b34"/>
+          <ID name="codigoPostal" mc="Standard.Attribute" uid="4aa8768a-0f66-42fa-9c57-9f2af498160b"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
