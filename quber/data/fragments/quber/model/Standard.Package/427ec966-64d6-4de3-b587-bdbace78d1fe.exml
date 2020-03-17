@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorVerMenu" version="4">
   <OBJECT>
     <ID name="ControladorVerMenu" mc="Standard.Package" uid="427ec966-64d6-4de3-b587-bdbace78d1fe"/>
-    <PID name="Mauricio" mc="Standard.Package" uid="7573ad57-4f64-420b-8cac-834e6b445b34"/>
+    <PID name="Ver Menu" mc="Standard.Package" uid="d914bf26-8304-4eae-9196-d490438c09b6"/>
     <ATTRIBUTES>
       <ATT name="IsInstantiable">false</ATT>
       <ATT name="IsAbstract">false</ATT>

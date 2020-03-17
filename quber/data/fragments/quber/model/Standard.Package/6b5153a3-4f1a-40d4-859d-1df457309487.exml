@@ -14,12 +14,7 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="VistaRegistrarRepartidor" mc="Standard.Package" uid="ce0defdb-1402-4e0a-b4ff-0a65e33a2c39"/>
-        <COMPID name="ModeloRegistrarRepartidor" mc="Standard.Package" uid="2d214b5e-10de-4084-ac5c-aac18a7b1579"/>
-        <COMPID name="ControladorRegistrarRepartidor" mc="Standard.Package" uid="2e33e7af-cce3-4f95-86d8-ab4bf6a249c4"/>
-      </COMP>
-      <COMP relation="Product">
-        <COMPID name="RegistrarRepartidor" mc="Standard.ClassDiagram" uid="929639dc-a6c6-472b-9c98-cdbd4491f85a"/>
+        <COMPID name="Registrar Repartidor" mc="Standard.Package" uid="002d198e-0c6a-44de-920a-d771a4362604"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

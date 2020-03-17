@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VistaRegistrarRepartidor" version="4">
   <OBJECT>
     <ID name="VistaRegistrarRepartidor" mc="Standard.Package" uid="ce0defdb-1402-4e0a-b4ff-0a65e33a2c39"/>
-    <PID name="Alan" mc="Standard.Package" uid="6b5153a3-4f1a-40d4-859d-1df457309487"/>
+    <PID name="Registrar Repartidor" mc="Standard.Package" uid="002d198e-0c6a-44de-920a-d771a4362604"/>
     <ATTRIBUTES>
       <ATT name="IsInstantiable">false</ATT>
       <ATT name="IsAbstract">false</ATT>

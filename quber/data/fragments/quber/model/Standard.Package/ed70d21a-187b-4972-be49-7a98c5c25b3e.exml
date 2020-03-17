@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorAlimento" version="4">
   <OBJECT>
     <ID name="ControladorAlimento" mc="Standard.Package" uid="ed70d21a-187b-4972-be49-7a98c5c25b3e"/>
-    <PID name="César" mc="Standard.Package" uid="ed9f595c-1dab-4d05-9a50-5f15db2cf1a6"/>
+    <PID name="Registrar Alimento" mc="Standard.Package" uid="308d8268-035b-4e91-b088-d9efd3a8b174"/>
     <ATTRIBUTES>
       <ATT name="IsInstantiable">false</ATT>
       <ATT name="IsAbstract">false</ATT>

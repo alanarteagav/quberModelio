@@ -14,12 +14,7 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="VistaVerMenu" mc="Standard.Package" uid="1c508de3-51d8-49b7-bf07-3f051495b078"/>
-        <COMPID name="ControladorVerMenu" mc="Standard.Package" uid="427ec966-64d6-4de3-b587-bdbace78d1fe"/>
-        <COMPID name="ModeloVerMenu" mc="Standard.Package" uid="0ecda571-501d-40e4-92a6-9a5f714c3291"/>
-      </COMP>
-      <COMP relation="Product">
-        <COMPID name="Ver Menu" mc="Standard.ClassDiagram" uid="3b7fd9f5-9d84-4443-9884-f27204b901b2"/>
+        <COMPID name="Ver Menu" mc="Standard.Package" uid="d914bf26-8304-4eae-9196-d490438c09b6"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

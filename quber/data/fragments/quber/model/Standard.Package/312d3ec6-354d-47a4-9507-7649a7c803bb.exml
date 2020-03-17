@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ModeloCliente" version="4">
   <OBJECT>
     <ID name="ModeloCliente" mc="Standard.Package" uid="312d3ec6-354d-47a4-9507-7649a7c803bb"/>
-    <PID name="Mirén" mc="Standard.Package" uid="0022cd7b-a5d0-43df-97ab-3f9d2ff9ee4d"/>
+    <PID name="Crear Cuenta" mc="Standard.Package" uid="503d3bdf-d799-4a1b-bfa1-fe156d849975"/>
     <ATTRIBUTES>
       <ATT name="IsInstantiable">false</ATT>
       <ATT name="IsAbstract">false</ATT>
