@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Old" version="4">
   <OBJECT>
     <ID name="Old" mc="Standard.Package" uid="f8004bb2-c522-44a9-a69a-f44abac69eea"/>
-    <PID name="quber" mc="Standard.Package" uid="76a83750-6262-43db-b862-ece372930d79"/>
+    <PID name="quber" mc="Standard.Project" uid="433bbe46-a5b5-491d-9e39-77b95c489ce8"/>
     <ATTRIBUTES>
       <ATT name="IsInstantiable">false</ATT>
       <ATT name="IsAbstract">false</ATT>
@@ -20,9 +20,9 @@
         <COMPID name="VisualizaciónCategoríaIH" mc="Standard.Class" uid="2fca809e-fbc9-45de-ab03-3ae26bccc4f7"/>
         <COMPID name="EditarCategoriaIH" mc="Standard.Class" uid="af31a4bd-c819-4ea7-aab6-d37bdcd7596d"/>
         <COMPID name="Categoría" mc="Standard.Class" uid="7fa10781-1e93-4622-b461-bb9f04421fed"/>
-        <COMPID name="Modelo" mc="Standard.Package" uid="48e12f15-c3a1-40c0-8ed8-ca4d22f7e1c1"/>
-        <COMPID name="Controlador" mc="Standard.Package" uid="064798e4-0c77-4528-a5af-6b8f7f2bde26"/>
-        <COMPID name="Vista" mc="Standard.Package" uid="ec1822ee-eca8-4e94-b442-6d6b26b19efc"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="quber Class diagram" mc="Standard.ClassDiagram" uid="a8524154-2a41-4798-a8bb-12900952c411"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

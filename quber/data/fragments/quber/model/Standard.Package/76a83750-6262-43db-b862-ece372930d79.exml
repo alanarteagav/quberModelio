@@ -15,20 +15,13 @@
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
         <COMPID name="Node" mc="Standard.Node" uid="c832254b-8485-4e41-9ead-bfd181e161df"/>
-        <COMPID name="Alan" mc="Standard.Package" uid="6b5153a3-4f1a-40d4-859d-1df457309487"/>
-        <COMPID name="Mauricio" mc="Standard.Package" uid="7573ad57-4f64-420b-8cac-834e6b445b34"/>
-        <COMPID name="César" mc="Standard.Package" uid="ed9f595c-1dab-4d05-9a50-5f15db2cf1a6"/>
-        <COMPID name="Mirén" mc="Standard.Package" uid="0022cd7b-a5d0-43df-97ab-3f9d2ff9ee4d"/>
-        <COMPID name="Natalia" mc="Standard.Package" uid="c877e046-7444-4a81-8242-9b8528f6de01"/>
-        <COMPID name="Old" mc="Standard.Package" uid="f8004bb2-c522-44a9-a69a-f44abac69eea"/>
+        <COMPID name="Modelo" mc="Standard.Package" uid="48e12f15-c3a1-40c0-8ed8-ca4d22f7e1c1"/>
+        <COMPID name="Controlador" mc="Standard.Package" uid="064798e4-0c77-4528-a5af-6b8f7f2bde26"/>
+        <COMPID name="Vista" mc="Standard.Package" uid="ec1822ee-eca8-4e94-b442-6d6b26b19efc"/>
       </COMP>
       <COMP relation="Product">
-        <COMPID name="quber Class diagram" mc="Standard.ClassDiagram" uid="a8524154-2a41-4798-a8bb-12900952c411"/>
         <COMPID name="quber Deployment diagram" mc="Standard.DeploymentDiagram" uid="2c974157-ec49-477a-bab8-ecdd12b76258"/>
-        <COMPID name="Registrar Alimento" mc="Standard.ClassDiagram" uid="dfd05508-2473-4f97-bdeb-4d2b135c00e3"/>
-        <COMPID name="RegistrarRepartidor" mc="Standard.ClassDiagram" uid="929639dc-a6c6-472b-9c98-cdbd4491f85a"/>
         <COMPID name="Diagrama Principal" mc="Standard.ClassDiagram" uid="b130045b-831d-4702-ab50-1e84feaf7c4b"/>
-        <COMPID name="Ver Menu" mc="Standard.ClassDiagram" uid="3b7fd9f5-9d84-4443-9884-f27204b901b2"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
