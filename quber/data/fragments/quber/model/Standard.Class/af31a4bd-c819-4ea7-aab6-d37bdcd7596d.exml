@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="EditarCategoriaIH" version="4">
   <OBJECT>
     <ID name="EditarCategoriaIH" mc="Standard.Class" uid="af31a4bd-c819-4ea7-aab6-d37bdcd7596d"/>
-    <PID name="quber" mc="Standard.Package" uid="76a83750-6262-43db-b862-ece372930d79"/>
+    <PID name="Old" mc="Standard.Package" uid="f8004bb2-c522-44a9-a69a-f44abac69eea"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
       <ATT name="IsMain">false</ATT>
