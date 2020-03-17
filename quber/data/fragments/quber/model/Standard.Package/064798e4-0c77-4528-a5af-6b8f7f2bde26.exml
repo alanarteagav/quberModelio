@@ -22,6 +22,7 @@
         <COMPID name="AgregaComida" mc="Standard.Class" uid="5d4715d8-62ad-4b23-8f0f-068d153c4e70"/>
         <COMPID name="confirmarOrden" mc="Standard.Class" uid="cfb77b5b-c485-416e-abe6-883415c7027a"/>
         <COMPID name="mostrarOrden" mc="Standard.Class" uid="08b772c0-88a2-4fb8-bb8a-0c936b8c154f"/>
+        <COMPID name="ActualizaCliente" mc="Standard.Class" uid="a7ca13b1-25b9-4b8c-a452-d2b012307597"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
