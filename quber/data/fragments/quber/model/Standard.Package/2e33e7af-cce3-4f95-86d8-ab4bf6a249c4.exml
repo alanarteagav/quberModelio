@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorRegistrarRepartidor" version="4">
+  <OBJECT>
+    <ID name="ControladorRegistrarRepartidor" mc="Standard.Package" uid="2e33e7af-cce3-4f95-86d8-ab4bf6a249c4"/>
+    <PID name="quber" mc="Standard.Package" uid="76a83750-6262-43db-b862-ece372930d79"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ControladorRegistrarRepartidor]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="RegistrarRepartidor" mc="Standard.Class" uid="a2143f18-2614-47c1-802a-39acf92a0b51"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

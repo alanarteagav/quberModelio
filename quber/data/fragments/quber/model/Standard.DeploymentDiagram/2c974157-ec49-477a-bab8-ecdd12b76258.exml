@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="quber Deployment diagram" version="4">
+  <OBJECT>
+    <ID name="quber Deployment diagram" mc="Standard.DeploymentDiagram" uid="2c974157-ec49-477a-bab8-ecdd12b76258"/>
+    <PID name="quber" mc="Standard.Package" uid="76a83750-6262-43db-b862-ece372930d79"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">3</ATT>
+      <ATT name="UiData"><![CDATA[eJztmltz2joQgP+Kx+8YbEwgE5pOApmcTMllkrYz57xkZGshbmyJI4sG//tKvlAwxVUMGKb1A2O8lnZX0reS1nL/4zzwte/AQo+SD7pptHTt43n/3vkGLtc8LES6xqMpfNApmxgBxeB71MAemjAUGIA9TpmBYerTKADCDfBBXsMlWVb4OhguZMNEpmsB+kbZ88KBln7ef2B0CoxHGkGBsOujiM74EHEknn1F/gxSh8jM9/Xmeb+ZVVir+sQjH/SV5lhFzQll+dBwKQMjqavg3wCFLsKAM2NXc/4IY0Urd0JFWlODOR86N8LH+K/8c5vU1NrGPNfQZtKkosYz8BEHLHzJ9dutFGnfpUR2ESIYMWysjY1muadd2+x0G+Dapw2720UNBzk9cYuxaTndE6vTK+5/H4X8E6FvZIQc8HNuPHHmkYl+/v/MAab9NK+l/dRvxqULm0h9uCEDGkxp6HExQBtMKKgavHg+ZiA1jLyQrzDTLhkCRBQV1N+Jy1agPwpHEJlIRtJRM9vmmfxZndaZ1W69OwrsvUeBDIEk3vYNruxeze21LatjO42e3es0bLDNxikg3HDG2OyZYJ6YeLwDVqWt4+Gysz2XD8wLEIv2gGjrrFUazxNVPIWqebQ1o3bN6GZGb5FHFFUWsdpVYDXkiHuvS5wKreEUufAiugmYRDaT/BNLqt8+9Kol86QmczOZCQMKCsMX+vbsuWuKLqmwhMiiU8bID6G4nbGqV4jeKMM70MaR+/occmBAf6ONs5mKa/4vuv/9qpATcoZcXqKFC0KXgua0ROwjLkbZmXGYMDqbitC/yATXUlB95JutOvSPJvRXYSizNDXTSzG5pkr2m0dXKkTS+Qzd+0xwKHSVk94a3f3vp4C/ULxvblVS1jy3HhELERFzulggXD5jMke4SWVPmewA9ConqzW9e6c342HLbMBUSV1L8XmoKbbilNX8s3LWHRK675m1TCKrRO5/lBxidq04o/3DwN3x9CoZ2DG7iliXydE8QoC5op/CmGdxM5A3BzjUqXOz42E4BmHL/YFVJu/agOOBdgRWxUmXlX/NXkNZ3a7AKpdv/ZJXCA+zE7AqzrNqYI9nJ7D+KGdn7bTQSIc8577c1U7kwUw6FG2F18NWcTKYhYtLg4ASI37DnZRKH8UflozRzOfx9xJXiTQZq22iKN+W/M5VIaTqg8zjiaibAE0gtveXHBmp+lbyzOi9k4fijGGWNjPyyGtYMBHmil9Ohgy9CTRGKBL2VwO3OMtffOOWKAjFpBTF59MrGqtZwd9X6wg+CvPyUZAF6PDaGF38e/X4fHkx+HT9eP/lbrjrFXCjluWB+8nQMhGF70lqIvZLxOf7h8o2Qz8AOi8Yvw==]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,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]]></ATT>
+      <ATT name="Name"><![CDATA[quber Deployment diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Node" mc="Standard.Node" uid="c832254b-8485-4e41-9ead-bfd181e161df"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="b5e72c0a-9309-4389-bb69-05f941618bbf"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

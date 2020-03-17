@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorAlimento" version="4">
+  <OBJECT>
+    <ID name="ControladorAlimento" mc="Standard.Package" uid="ed70d21a-187b-4972-be49-7a98c5c25b3e"/>
+    <PID name="quber" mc="Standard.Package" uid="76a83750-6262-43db-b862-ece372930d79"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ControladorAlimento]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="RegistrarAlimento" mc="Standard.Class" uid="b49d72e4-8cf3-4b18-8fed-bdc6f43f4c77"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
