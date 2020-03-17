@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="César" version="4">
+  <OBJECT>
+    <ID name="César" mc="Standard.Package" uid="ed9f595c-1dab-4d05-9a50-5f15db2cf1a6"/>
+    <PID name="quber" mc="Standard.Package" uid="76a83750-6262-43db-b862-ece372930d79"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[César]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ModeloAlimento" mc="Standard.Package" uid="8e99df0c-42de-4a2d-ae37-c6fa295c51d9"/>
+        <COMPID name="VistaAlimento" mc="Standard.Package" uid="459f9cab-cf2c-4490-b5e7-142196bc1c8e"/>
+        <COMPID name="ControladorAlimento" mc="Standard.Package" uid="ed70d21a-187b-4972-be49-7a98c5c25b3e"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

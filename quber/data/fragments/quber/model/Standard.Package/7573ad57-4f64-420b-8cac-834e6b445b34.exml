@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Mauricio" version="4">
+  <OBJECT>
+    <ID name="Mauricio" mc="Standard.Package" uid="7573ad57-4f64-420b-8cac-834e6b445b34"/>
+    <PID name="quber" mc="Standard.Package" uid="76a83750-6262-43db-b862-ece372930d79"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Mauricio]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="VistaVerMenu" mc="Standard.Package" uid="1c508de3-51d8-49b7-bf07-3f051495b078"/>
+        <COMPID name="ControladorVerMenu" mc="Standard.Package" uid="427ec966-64d6-4de3-b587-bdbace78d1fe"/>
+        <COMPID name="ModeloVerMenu" mc="Standard.Package" uid="0ecda571-501d-40e4-92a6-9a5f714c3291"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

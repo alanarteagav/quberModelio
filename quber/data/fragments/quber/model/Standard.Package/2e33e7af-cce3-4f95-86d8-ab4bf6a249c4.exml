@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorRegistrarRepartidor" version="4">
   <OBJECT>
     <ID name="ControladorRegistrarRepartidor" mc="Standard.Package" uid="2e33e7af-cce3-4f95-86d8-ab4bf6a249c4"/>
-    <PID name="quber" mc="Standard.Package" uid="76a83750-6262-43db-b862-ece372930d79"/>
+    <PID name="Alan" mc="Standard.Package" uid="6b5153a3-4f1a-40d4-859d-1df457309487"/>
     <ATTRIBUTES>
       <ATT name="IsInstantiable">false</ATT>
       <ATT name="IsAbstract">false</ATT>

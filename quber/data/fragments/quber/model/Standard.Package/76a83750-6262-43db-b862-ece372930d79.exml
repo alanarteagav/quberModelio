@@ -23,19 +23,18 @@
         <COMPID name="VisualizaciónCategoríaIH" mc="Standard.Class" uid="2fca809e-fbc9-45de-ab03-3ae26bccc4f7"/>
         <COMPID name="EditarCategoriaIH" mc="Standard.Class" uid="af31a4bd-c819-4ea7-aab6-d37bdcd7596d"/>
         <COMPID name="Vista" mc="Standard.Package" uid="ec1822ee-eca8-4e94-b442-6d6b26b19efc"/>
-        <COMPID name="ModeloAlimento" mc="Standard.Package" uid="8e99df0c-42de-4a2d-ae37-c6fa295c51d9"/>
         <COMPID name="Categoría" mc="Standard.Class" uid="7fa10781-1e93-4622-b461-bb9f04421fed"/>
-        <COMPID name="VistaAlimento" mc="Standard.Package" uid="459f9cab-cf2c-4490-b5e7-142196bc1c8e"/>
-        <COMPID name="ControladorAlimento" mc="Standard.Package" uid="ed70d21a-187b-4972-be49-7a98c5c25b3e"/>
-        <COMPID name="VistaRegistrarRepartidor" mc="Standard.Package" uid="ce0defdb-1402-4e0a-b4ff-0a65e33a2c39"/>
-        <COMPID name="ModeloRegistrarRepartidor" mc="Standard.Package" uid="2d214b5e-10de-4084-ac5c-aac18a7b1579"/>
-        <COMPID name="ControladorRegistrarRepartidor" mc="Standard.Package" uid="2e33e7af-cce3-4f95-86d8-ab4bf6a249c4"/>
+        <COMPID name="Alan" mc="Standard.Package" uid="6b5153a3-4f1a-40d4-859d-1df457309487"/>
+        <COMPID name="Mauricio" mc="Standard.Package" uid="7573ad57-4f64-420b-8cac-834e6b445b34"/>
+        <COMPID name="César" mc="Standard.Package" uid="ed9f595c-1dab-4d05-9a50-5f15db2cf1a6"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="quber Class diagram" mc="Standard.ClassDiagram" uid="a8524154-2a41-4798-a8bb-12900952c411"/>
         <COMPID name="quber Deployment diagram" mc="Standard.DeploymentDiagram" uid="2c974157-ec49-477a-bab8-ecdd12b76258"/>
         <COMPID name="Registrar Alimento" mc="Standard.ClassDiagram" uid="dfd05508-2473-4f97-bdeb-4d2b135c00e3"/>
         <COMPID name="RegistrarRepartidor" mc="Standard.ClassDiagram" uid="929639dc-a6c6-472b-9c98-cdbd4491f85a"/>
+        <COMPID name="Diagrama Principal" mc="Standard.ClassDiagram" uid="b130045b-831d-4702-ab50-1e84feaf7c4b"/>
+        <COMPID name="Ver Menu" mc="Standard.ClassDiagram" uid="3b7fd9f5-9d84-4443-9884-f27204b901b2"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
