@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="numeric(5,2)" version="4">
+  <OBJECT>
+    <ID name="numeric(5,2)" mc="Standard.DataType" uid="574a5869-21bc-4e05-a1c1-db53bce3972d"/>
+    <PID name="Alimento" mc="Standard.Class" uid="34b8fa63-6ec7-42cc-a9e4-44db1171611f"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">true</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[numeric(5,2)]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

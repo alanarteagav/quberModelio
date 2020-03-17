@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ModeloConsultarAlimento" version="4">
+  <OBJECT>
+    <ID name="ModeloConsultarAlimento" mc="Standard.Package" uid="65082f3b-829d-4a7b-babf-c0d09df49da3"/>
+    <PID name="Consultar Alimento" mc="Standard.Package" uid="c9436c69-0f6d-4732-a69c-a099621c951f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ModeloConsultarAlimento]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Alimento" mc="Standard.Class" uid="f9f0911c-c6ad-454e-a7e6-f122b4e08c05"/>
+        <COMPID name="ConexionBD" mc="Standard.Class" uid="594d43c3-2035-45cf-8583-9143b52bdbc9"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="441ca400-3c34-4cf4-8360-e8d382186616"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[<p>&lt;body style=&quot;background-color:green&quot;&gt;</p><p>&nbsp;</p>
+]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/html]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

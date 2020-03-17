@@ -15,6 +15,9 @@
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
         <COMPID name="Registrar Alimento" mc="Standard.Package" uid="308d8268-035b-4e91-b088-d9efd3a8b174"/>
+        <COMPID name="Eliminar Alimento" mc="Standard.Package" uid="abbfa346-1828-454f-aa3d-af904177b003"/>
+        <COMPID name="Consultar Alimento" mc="Standard.Package" uid="c9436c69-0f6d-4732-a69c-a099621c951f"/>
+        <COMPID name="Actualizar Alimento" mc="Standard.Package" uid="1b249cea-1b0a-4191-a22a-7409bf5ef85a"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

@@ -12,6 +12,10 @@
       <ATT name="Name"><![CDATA[Natalia]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
-    <DEPENDENCIES></DEPENDENCIES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Registrar Categoría" mc="Standard.Package" uid="1008fb7a-9c4e-4a11-9ac4-cb327edf00fd"/>
+      </COMP>
+    </DEPENDENCIES>
   </OBJECT>
 </EXT>

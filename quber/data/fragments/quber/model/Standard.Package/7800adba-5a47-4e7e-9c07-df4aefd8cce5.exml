@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorActualizarAlimento" version="4">
+  <OBJECT>
+    <ID name="ControladorActualizarAlimento" mc="Standard.Package" uid="7800adba-5a47-4e7e-9c07-df4aefd8cce5"/>
+    <PID name="Actualizar Alimento" mc="Standard.Package" uid="1b249cea-1b0a-4191-a22a-7409bf5ef85a"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ControladorActualizarAlimento]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ActualizarAlimento" mc="Standard.Class" uid="245c5aac-9eb1-4a9f-8e2d-7b9379eb229f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

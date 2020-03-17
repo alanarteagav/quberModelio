@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VistaConsultarAlimento" version="4">
+  <OBJECT>
+    <ID name="VistaConsultarAlimento" mc="Standard.Package" uid="78a4b306-602c-4fb8-87d6-8965ed8763f4"/>
+    <PID name="Consultar Alimento" mc="Standard.Package" uid="c9436c69-0f6d-4732-a69c-a099621c951f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[VistaConsultarAlimento]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="AlimentoIH" mc="Standard.Class" uid="612316a4-acfd-495c-a7e2-8dba1f8f306c"/>
+        <COMPID name="PrincipalIH" mc="Standard.Class" uid="b9516d9d-d383-48ed-b8f1-735ec1137817"/>
+        <COMPID name="MensajeIH" mc="Standard.Class" uid="2a7117e4-2a63-4274-90f9-32b30c5f0031"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="fba36161-e916-4f1a-98c8-f66631de4901"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[<p>&lt;body style=&quot;background-color:green&quot;&gt;</p><p>&nbsp;</p>
+]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/html]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

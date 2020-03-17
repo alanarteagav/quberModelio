@@ -23,6 +23,10 @@
         <COMPID name="confirmarOrden" mc="Standard.Class" uid="cfb77b5b-c485-416e-abe6-883415c7027a"/>
         <COMPID name="mostrarOrden" mc="Standard.Class" uid="08b772c0-88a2-4fb8-bb8a-0c936b8c154f"/>
         <COMPID name="ActualizaCliente" mc="Standard.Class" uid="a7ca13b1-25b9-4b8c-a452-d2b012307597"/>
+        <COMPID name="RegistrarCategoria" mc="Standard.Class" uid="eaa0009e-fcdb-4974-ab2c-c51b3f7973d4"/>
+        <COMPID name="EliminarAlimento" mc="Standard.Class" uid="7e316c87-5c3d-42c2-808b-b032ea32f847"/>
+        <COMPID name="ConsultarAlimento" mc="Standard.Class" uid="d8697e43-97eb-4bde-bcf2-3c9fce7b4980"/>
+        <COMPID name="ActualizarAlimento" mc="Standard.Class" uid="708fcefc-b2f6-4a34-9dc7-2e30595484ec"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
