@@ -21,6 +21,9 @@
         <COMPID name="MenuCategoriasIH" mc="Standard.Class" uid="27a78f0a-5464-43e7-a4ba-6c836938a538"/>
         <COMPID name="MenuPrincipalIH" mc="Standard.Class" uid="b40ef98a-bf87-463a-bad8-57e5b5de915f"/>
         <COMPID name="RegistroRepartidorIH" mc="Standard.Class" uid="a59626e4-4627-4a94-b808-dffef136c49d"/>
+        <COMPID name="AgregarAlimentoIH" mc="Standard.Class" uid="f989fa27-5d3b-4781-94ec-5e0d3c731b9c"/>
+        <COMPID name="VerCarritoIH" mc="Standard.Class" uid="3288754e-fc20-4dcf-8910-61cd6dcd2c63"/>
+        <COMPID name="ConfirmarOrdenIH" mc="Standard.Class" uid="d2cffaee-7d50-4e13-9749-344eab8447ca"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

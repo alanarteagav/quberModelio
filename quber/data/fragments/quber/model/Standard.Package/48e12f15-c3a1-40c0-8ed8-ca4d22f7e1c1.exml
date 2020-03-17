@@ -19,6 +19,8 @@
         <COMPID name="Cliente" mc="Standard.Class" uid="aacab6e9-faaa-4073-9318-5f89c57713f5"/>
         <COMPID name="Categoria" mc="Standard.Class" uid="c44d8d42-44d1-400d-a5f0-a065da550429"/>
         <COMPID name="Repartidor" mc="Standard.Class" uid="d21a71ba-0c72-4133-a775-03e8362cf433"/>
+        <COMPID name="Orden" mc="Standard.Class" uid="66271f3d-048a-4a6f-b9c6-2bd2cc21c022"/>
+        <COMPID name="Dirección" mc="Standard.Class" uid="e3a003bd-b6c4-4edb-8338-0c03b2a5bb0d"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

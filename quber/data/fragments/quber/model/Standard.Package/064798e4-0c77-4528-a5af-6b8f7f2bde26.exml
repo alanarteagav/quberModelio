@@ -18,6 +18,10 @@
         <COMPID name="RegistrarCliente" mc="Standard.Class" uid="59d37a86-10e3-44ca-b08b-58a61713dc1e"/>
         <COMPID name="ControladorVerCategorias" mc="Standard.Class" uid="060612c8-3ad4-4e4a-9609-79429c3f8663"/>
         <COMPID name="RegistrarRepartidor" mc="Standard.Class" uid="0ffc9033-6dc8-4f62-a245-2c5afb3204de"/>
+        <COMPID name="ListarAlimentos" mc="Standard.Class" uid="e4337ffe-e90e-4c83-bc5e-aee8213e35eb"/>
+        <COMPID name="AgregaComida" mc="Standard.Class" uid="5d4715d8-62ad-4b23-8f0f-068d153c4e70"/>
+        <COMPID name="confirmarOrden" mc="Standard.Class" uid="cfb77b5b-c485-416e-abe6-883415c7027a"/>
+        <COMPID name="mostrarOrden" mc="Standard.Class" uid="08b772c0-88a2-4fb8-bb8a-0c936b8c154f"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
