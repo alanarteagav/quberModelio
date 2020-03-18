@@ -14,19 +14,22 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="RegistrarAlimento" mc="Standard.Class" uid="74a3994e-b7a7-4dbc-b435-869e517d294f"/>
-        <COMPID name="RegistrarCliente" mc="Standard.Class" uid="59d37a86-10e3-44ca-b08b-58a61713dc1e"/>
-        <COMPID name="ControladorVerCategorias" mc="Standard.Class" uid="060612c8-3ad4-4e4a-9609-79429c3f8663"/>
-        <COMPID name="RegistrarRepartidor" mc="Standard.Class" uid="0ffc9033-6dc8-4f62-a245-2c5afb3204de"/>
-        <COMPID name="ListarAlimentos" mc="Standard.Class" uid="e4337ffe-e90e-4c83-bc5e-aee8213e35eb"/>
-        <COMPID name="AgregaComida" mc="Standard.Class" uid="5d4715d8-62ad-4b23-8f0f-068d153c4e70"/>
-        <COMPID name="confirmarOrden" mc="Standard.Class" uid="cfb77b5b-c485-416e-abe6-883415c7027a"/>
-        <COMPID name="mostrarOrden" mc="Standard.Class" uid="08b772c0-88a2-4fb8-bb8a-0c936b8c154f"/>
-        <COMPID name="ActualizaCliente" mc="Standard.Class" uid="a7ca13b1-25b9-4b8c-a452-d2b012307597"/>
-        <COMPID name="RegistrarCategoria" mc="Standard.Class" uid="eaa0009e-fcdb-4974-ab2c-c51b3f7973d4"/>
-        <COMPID name="EliminarAlimento" mc="Standard.Class" uid="7e316c87-5c3d-42c2-808b-b032ea32f847"/>
-        <COMPID name="ConsultarAlimento" mc="Standard.Class" uid="d8697e43-97eb-4bde-bcf2-3c9fce7b4980"/>
-        <COMPID name="ActualizarAlimento" mc="Standard.Class" uid="708fcefc-b2f6-4a34-9dc7-2e30595484ec"/>
+        <COMPID name="RegistrarAlimento" mc="Standard.Class" uid="c628e5ab-a223-42ed-837c-79cd811c111b"/>
+        <COMPID name="ActualizarAlimento" mc="Standard.Class" uid="0fd7379a-f8dc-4737-8e9d-225baf813953"/>
+        <COMPID name="EliminarAlimento" mc="Standard.Class" uid="84a06185-5f19-4284-829a-8a884316d2c4"/>
+        <COMPID name="ConsultarAlimento" mc="Standard.Class" uid="7cb71adb-c7df-46a1-9cd8-88904061098e"/>
+        <COMPID name="ActualizaCliente" mc="Standard.Class" uid="684e4f44-ebee-411c-af91-beebc977540d"/>
+        <COMPID name="RegistrarCliente" mc="Standard.Class" uid="21ce89ee-36c0-4791-8e5c-29b80dfeb164"/>
+        <COMPID name="RegistrarCategoria" mc="Standard.Class" uid="4f415ad1-92c7-4a1a-9296-b42177ef86b0"/>
+        <COMPID name="ConsultarCategoría" mc="Standard.Class" uid="abc07811-107c-4fb1-b985-4e7d3c48d011"/>
+        <COMPID name="EliminarCategoria" mc="Standard.Class" uid="c9d42382-5c2f-4021-bbd8-c5236c23a8bd"/>
+        <COMPID name="ActualizarCategoría" mc="Standard.Class" uid="6778a01b-f29d-4490-a7fa-183d35bdc5ba"/>
+        <COMPID name="confirmarOrden" mc="Standard.Class" uid="97105d57-fafa-4307-829c-838c56dabd8f"/>
+        <COMPID name="ListarAlimentos" mc="Standard.Class" uid="c514a799-d170-4737-bb8a-86a1341804b1"/>
+        <COMPID name="AgregaComida" mc="Standard.Class" uid="c0753bd6-74ba-4f75-ac42-9c08a2cf15c4"/>
+        <COMPID name="mostrarOrden" mc="Standard.Class" uid="c80916ed-5dc4-4b59-aa2d-771900af2ba3"/>
+        <COMPID name="ControladorVerCategorias" mc="Standard.Class" uid="28afb30b-2ff5-4218-9e7b-6ab2a425cda2"/>
+        <COMPID name="RegistrarRepartidor" mc="Standard.Class" uid="85865e5a-ca51-42c7-aec3-d6f195217e90"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

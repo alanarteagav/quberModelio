@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ModeloAgregarComida" version="4">
+  <OBJECT>
+    <ID name="ModeloAgregarComida" mc="Standard.Package" uid="5678f74c-ac91-4b6e-8f99-2261e70c53a8"/>
+    <PID name="Agregar Comida" mc="Standard.Package" uid="6c5c9e25-3d97-467f-acf6-cf43768a1fbf"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ModeloAgregarComida]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Alimento" mc="Standard.Class" uid="a7a8b361-350b-448d-8ebc-a5122f1d0555"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

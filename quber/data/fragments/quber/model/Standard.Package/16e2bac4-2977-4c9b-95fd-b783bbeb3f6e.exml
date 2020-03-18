@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorActualizarCluenta" version="4">
+  <OBJECT>
+    <ID name="ControladorActualizarCluenta" mc="Standard.Package" uid="16e2bac4-2977-4c9b-95fd-b783bbeb3f6e"/>
+    <PID name="Actualizar Cuenta" mc="Standard.Package" uid="b5e93ad2-1bfb-40ee-93ff-e2ae96b8e197"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ControladorActualizarCluenta]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ActualizaCliente" mc="Standard.Class" uid="4934a48b-aa56-4dbf-a32e-33dca08ceb9a"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

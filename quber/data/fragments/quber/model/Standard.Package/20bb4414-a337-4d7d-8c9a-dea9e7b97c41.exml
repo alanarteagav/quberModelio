@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VistaCrearCuenta" version="4">
+  <OBJECT>
+    <ID name="VistaCrearCuenta" mc="Standard.Package" uid="20bb4414-a337-4d7d-8c9a-dea9e7b97c41"/>
+    <PID name="Crear Cuenta" mc="Standard.Package" uid="4a405801-8d13-45e0-9e2b-1269c62fbb74"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[VistaCrearCuenta]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ClienteIH" mc="Standard.Class" uid="7e8bdc93-eea7-4e41-b4d4-69cab018cda7"/>
+        <COMPID name="MensajeIH" mc="Standard.Class" uid="d1ca8538-5f1b-493d-b793-927646b2d694"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

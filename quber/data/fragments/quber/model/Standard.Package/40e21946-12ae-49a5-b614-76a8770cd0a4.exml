@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Registrar Categoría" version="4">
+  <OBJECT>
+    <ID name="Registrar Categoría" mc="Standard.Package" uid="40e21946-12ae-49a5-b614-76a8770cd0a4"/>
+    <PID name="Natalia" mc="Standard.Package" uid="c877e046-7444-4a81-8242-9b8528f6de01"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Registrar Categoría]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ControladorRegistrarCategoria" mc="Standard.Package" uid="e042a0d7-ab39-4e68-b927-acfa24707f09"/>
+        <COMPID name="VistaRegistrarCategoria" mc="Standard.Package" uid="902f6ad0-720a-481d-a3c4-596dee3496de"/>
+        <COMPID name="ModeloRegistrarCategoria" mc="Standard.Package" uid="5f5c13cd-d188-46e7-8798-d54755356673"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Registrar categoría" mc="Standard.ClassDiagram" uid="b4174973-2208-44ca-8289-c33ca758b8cc"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

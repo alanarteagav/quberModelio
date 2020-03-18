@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorConsultarAlimento" version="4">
+  <OBJECT>
+    <ID name="ControladorConsultarAlimento" mc="Standard.Package" uid="6fb89c3a-85cc-43bd-ac08-1bd3f0045fd4"/>
+    <PID name="Consultar Alimento" mc="Standard.Package" uid="c63d7aa7-b666-46da-a91a-0f87cb70aecf"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ControladorConsultarAlimento]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ConsultarAlimento" mc="Standard.Class" uid="b2cc38a8-daf3-4a3e-b85a-063bf730f564"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ModeloActualizarCuenta" version="4">
+  <OBJECT>
+    <ID name="ModeloActualizarCuenta" mc="Standard.Package" uid="8fb80919-4dc5-4ccd-af29-2e79fc7a10b4"/>
+    <PID name="Actualizar Cuenta" mc="Standard.Package" uid="b5e93ad2-1bfb-40ee-93ff-e2ae96b8e197"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ModeloActualizarCuenta]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Cliente" mc="Standard.Class" uid="7bcb29c4-4197-4c4e-af00-99902e656f7b"/>
+        <COMPID name="ConexionBD" mc="Standard.Class" uid="49f5772a-9a0f-4413-a319-08d0a6a5d51d"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

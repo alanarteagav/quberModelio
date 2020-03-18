@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Ver Contenido del Carrito" version="4">
+  <OBJECT>
+    <ID name="Ver Contenido del Carrito" mc="Standard.Package" uid="d53b4f9f-0f59-45bd-b713-b96662945757"/>
+    <PID name="Mauricio" mc="Standard.Package" uid="7573ad57-4f64-420b-8cac-834e6b445b34"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Ver Contenido del Carrito]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="VistaVerContenidoDelCarrito" mc="Standard.Package" uid="82a641df-f95e-48c0-a355-8161d66afdce"/>
+        <COMPID name="ModeloVerContenidoDelCarrito" mc="Standard.Package" uid="69f57387-cc5a-4a0e-94ba-58199560e926"/>
+        <COMPID name="ControladorVerContenidoDelCarrito" mc="Standard.Package" uid="91133056-862c-43d8-b9c0-7a7caeb54c97"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Ver Contenido del Carrito" mc="Standard.ClassDiagram" uid="d3fc6c15-6895-476c-b5a2-fbb9f588d9cb"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

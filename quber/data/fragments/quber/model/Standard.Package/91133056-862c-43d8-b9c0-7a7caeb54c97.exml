@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorVerContenidoDelCarrito" version="4">
+  <OBJECT>
+    <ID name="ControladorVerContenidoDelCarrito" mc="Standard.Package" uid="91133056-862c-43d8-b9c0-7a7caeb54c97"/>
+    <PID name="Ver Contenido del Carrito" mc="Standard.Package" uid="d53b4f9f-0f59-45bd-b713-b96662945757"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ControladorVerContenidoDelCarrito]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="mostrarOrden" mc="Standard.Class" uid="25b660f4-4bcd-43fa-8649-f8044126bec1"/>
+        <COMPID name="confirmarOrden" mc="Standard.Class" uid="572697ca-e62d-42e8-ac77-d51e24922a30"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

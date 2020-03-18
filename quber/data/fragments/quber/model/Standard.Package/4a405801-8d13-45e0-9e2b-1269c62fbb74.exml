@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Crear Cuenta" version="4">
+  <OBJECT>
+    <ID name="Crear Cuenta" mc="Standard.Package" uid="4a405801-8d13-45e0-9e2b-1269c62fbb74"/>
+    <PID name="Mirén" mc="Standard.Package" uid="0022cd7b-a5d0-43df-97ab-3f9d2ff9ee4d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Crear Cuenta]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="VistaCrearCuenta" mc="Standard.Package" uid="20bb4414-a337-4d7d-8c9a-dea9e7b97c41"/>
+        <COMPID name="ModeloCrearCuenta" mc="Standard.Package" uid="885d10c6-b32c-408b-86e7-bc529e639dce"/>
+        <COMPID name="ControladorCrearCuenta" mc="Standard.Package" uid="3e5bec7a-e59a-4433-8328-6a8ea36a452f"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Crear Cuenta Cliente" mc="Standard.ClassDiagram" uid="f34b8c5c-bb99-4725-bf50-726a8a128525"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

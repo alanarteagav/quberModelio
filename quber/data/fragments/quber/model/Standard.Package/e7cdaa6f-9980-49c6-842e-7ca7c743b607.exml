@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Actualizar Categoría" version="4">
+  <OBJECT>
+    <ID name="Actualizar Categoría" mc="Standard.Package" uid="e7cdaa6f-9980-49c6-842e-7ca7c743b607"/>
+    <PID name="Natalia" mc="Standard.Package" uid="c877e046-7444-4a81-8242-9b8528f6de01"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Actualizar Categoría]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ControladorActualizarCategoría" mc="Standard.Package" uid="0c6d7f7d-80db-468a-b9f1-ce7c9021c7df"/>
+        <COMPID name="ModeloActualizarCategoría" mc="Standard.Package" uid="5ffccf42-12e3-4003-a5e9-9a926bda3b59"/>
+        <COMPID name="VistaActualizarCategoría" mc="Standard.Package" uid="d34fc026-bbcf-4441-b174-4dabbcbdb055"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Actualizar Categoría " mc="Standard.ClassDiagram" uid="f69a90b4-6876-457b-b7d6-2fb228fcb76a"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

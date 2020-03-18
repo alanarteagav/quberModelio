@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ModeloEliminarAlimento" version="4">
+  <OBJECT>
+    <ID name="ModeloEliminarAlimento" mc="Standard.Package" uid="aa3b88f2-c290-4848-9828-aafca3d9e86e"/>
+    <PID name="Eliminar Alimento" mc="Standard.Package" uid="0d26f71e-6cff-4605-aeaa-1c8b7d40d9b8"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ModeloEliminarAlimento]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Alimento" mc="Standard.Class" uid="78b821bf-e4df-4ab7-9496-c0af05b166c9"/>
+        <COMPID name="ConexionBD" mc="Standard.Class" uid="6ea2a78d-c231-4fb6-b2cc-724766f7002b"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="82ace961-1db3-41c4-8880-a2555e9f9c63"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[<p>&lt;body style=&quot;background-color:green&quot;&gt;</p><p>&nbsp;</p>
+]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/html]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

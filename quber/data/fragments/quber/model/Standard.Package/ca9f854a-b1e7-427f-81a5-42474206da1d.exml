@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorEliminarCategoría" version="4">
+  <OBJECT>
+    <ID name="ControladorEliminarCategoría" mc="Standard.Package" uid="ca9f854a-b1e7-427f-81a5-42474206da1d"/>
+    <PID name="Eliminar Categoría" mc="Standard.Package" uid="118ef724-57a9-4ba1-9492-6a4a5b3b5418"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ControladorEliminarCategoría]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="EliminarCategoria" mc="Standard.Class" uid="9bcb1487-cc48-40b5-9d79-f13565bbbc1c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

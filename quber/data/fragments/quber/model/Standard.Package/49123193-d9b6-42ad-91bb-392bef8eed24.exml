@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorConsultaCategoría" version="4">
+  <OBJECT>
+    <ID name="ControladorConsultaCategoría" mc="Standard.Package" uid="49123193-d9b6-42ad-91bb-392bef8eed24"/>
+    <PID name="Consultar Categoría" mc="Standard.Package" uid="29fa987e-bc73-4747-99e3-fab45a8353df"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ControladorConsultaCategoría]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ConsultarCategoría" mc="Standard.Class" uid="bdbf8310-fbbd-4c10-b31b-4919d1988a24"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ModeloConfirmarDirección" version="4">
+  <OBJECT>
+    <ID name="ModeloConfirmarDirección" mc="Standard.Package" uid="ad1bd283-01ee-4d97-a42c-9eb8d26a87fd"/>
+    <PID name="Confirmar Dirección" mc="Standard.Package" uid="2855563b-5a6e-496a-a896-5ca1348aa9ca"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ModeloConfirmarDirección]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Dirección" mc="Standard.Class" uid="0b85ac52-9541-4200-8bfe-b3a97f498337"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

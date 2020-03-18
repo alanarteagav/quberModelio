@@ -14,7 +14,10 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="Registrar Categoría" mc="Standard.Package" uid="1008fb7a-9c4e-4a11-9ac4-cb327edf00fd"/>
+        <COMPID name="Registrar Categoría" mc="Standard.Package" uid="40e21946-12ae-49a5-b614-76a8770cd0a4"/>
+        <COMPID name="Consultar Categoría" mc="Standard.Package" uid="29fa987e-bc73-4747-99e3-fab45a8353df"/>
+        <COMPID name="Eliminar Categoría" mc="Standard.Package" uid="118ef724-57a9-4ba1-9492-6a4a5b3b5418"/>
+        <COMPID name="Actualizar Categoría" mc="Standard.Package" uid="e7cdaa6f-9980-49c6-842e-7ca7c743b607"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

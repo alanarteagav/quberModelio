@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VistaActualizarCuenta" version="4">
+  <OBJECT>
+    <ID name="VistaActualizarCuenta" mc="Standard.Package" uid="32c918ef-3a6f-4d17-9e29-5c31c5f82f69"/>
+    <PID name="Actualizar Cuenta" mc="Standard.Package" uid="b5e93ad2-1bfb-40ee-93ff-e2ae96b8e197"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[VistaActualizarCuenta]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ClienteIH" mc="Standard.Class" uid="a153a89f-2907-49c9-896d-422f3a209497"/>
+        <COMPID name="MensajeIH" mc="Standard.Class" uid="b54b686d-5855-4919-a870-cf2523fc2905"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

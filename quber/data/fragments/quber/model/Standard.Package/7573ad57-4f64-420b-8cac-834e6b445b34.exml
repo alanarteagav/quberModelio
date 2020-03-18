@@ -14,11 +14,11 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="Ver Menu" mc="Standard.Package" uid="d914bf26-8304-4eae-9196-d490438c09b6"/>
-        <COMPID name="Agregar Comida" mc="Standard.Package" uid="c21a5160-182a-438b-8536-06e0ca892811"/>
-        <COMPID name="Ver Contenido del Carrito" mc="Standard.Package" uid="9d98e05d-1d47-460a-b23b-f326926b3d3b"/>
-        <COMPID name="Completar Orden" mc="Standard.Package" uid="ec2126ff-1ced-48cf-aa90-0651eab4bbe8"/>
-        <COMPID name="Confirmar Dirección" mc="Standard.Package" uid="06732259-3232-4a1f-853b-ed273bf92ed2"/>
+        <COMPID name="Confirmar Dirección" mc="Standard.Package" uid="2855563b-5a6e-496a-a896-5ca1348aa9ca"/>
+        <COMPID name="Agregar Comida" mc="Standard.Package" uid="6c5c9e25-3d97-467f-acf6-cf43768a1fbf"/>
+        <COMPID name="Ver Contenido del Carrito" mc="Standard.Package" uid="d53b4f9f-0f59-45bd-b713-b96662945757"/>
+        <COMPID name="Completar Orden" mc="Standard.Package" uid="b46fa2ae-73c3-4533-ac01-f803b81b57e7"/>
+        <COMPID name="Ver Menu" mc="Standard.Package" uid="8e4e2813-8999-4faa-87b4-ede4d6c222c2"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

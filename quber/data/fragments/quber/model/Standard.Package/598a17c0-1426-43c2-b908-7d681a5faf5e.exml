@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorEliminarAlimento" version="4">
+  <OBJECT>
+    <ID name="ControladorEliminarAlimento" mc="Standard.Package" uid="598a17c0-1426-43c2-b908-7d681a5faf5e"/>
+    <PID name="Eliminar Alimento" mc="Standard.Package" uid="0d26f71e-6cff-4605-aeaa-1c8b7d40d9b8"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ControladorEliminarAlimento]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="EliminarAlimento" mc="Standard.Class" uid="5b107586-c27b-4956-9141-e7ea66117449"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Actualizar Cuenta" version="4">
+  <OBJECT>
+    <ID name="Actualizar Cuenta" mc="Standard.Package" uid="b5e93ad2-1bfb-40ee-93ff-e2ae96b8e197"/>
+    <PID name="Mirén" mc="Standard.Package" uid="0022cd7b-a5d0-43df-97ab-3f9d2ff9ee4d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Actualizar Cuenta]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="VistaActualizarCuenta" mc="Standard.Package" uid="32c918ef-3a6f-4d17-9e29-5c31c5f82f69"/>
+        <COMPID name="ModeloActualizarCuenta" mc="Standard.Package" uid="8fb80919-4dc5-4ccd-af29-2e79fc7a10b4"/>
+        <COMPID name="ControladorActualizarCluenta" mc="Standard.Package" uid="16e2bac4-2977-4c9b-95fd-b783bbeb3f6e"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Actualizar Cuenta" mc="Standard.ClassDiagram" uid="27498963-754c-466f-aa29-24b4d3d6df3a"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

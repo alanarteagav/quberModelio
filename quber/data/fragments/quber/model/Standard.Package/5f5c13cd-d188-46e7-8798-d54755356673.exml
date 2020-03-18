@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ModeloRegistrarCategoria" version="4">
+  <OBJECT>
+    <ID name="ModeloRegistrarCategoria" mc="Standard.Package" uid="5f5c13cd-d188-46e7-8798-d54755356673"/>
+    <PID name="Registrar Categoría" mc="Standard.Package" uid="40e21946-12ae-49a5-b614-76a8770cd0a4"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ModeloRegistrarCategoria]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Categoria" mc="Standard.Class" uid="a7b691bc-b6d6-42b9-af9c-3bf9d0e61390"/>
+        <COMPID name="ConexionBD" mc="Standard.Class" uid="bb729ead-d844-4c92-b9ce-8ddbc0f2aea7"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VistaActualizarCategoría" version="4">
+  <OBJECT>
+    <ID name="VistaActualizarCategoría" mc="Standard.Package" uid="d34fc026-bbcf-4441-b174-4dabbcbdb055"/>
+    <PID name="Actualizar Categoría" mc="Standard.Package" uid="e7cdaa6f-9980-49c6-842e-7ca7c743b607"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[VistaActualizarCategoría]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="PrincipalIH" mc="Standard.Class" uid="0604e991-be40-4483-848b-51703b9a1c3b"/>
+        <COMPID name="CategoriaIH" mc="Standard.Class" uid="d086b5ee-5d69-4000-b178-e3aaf6845361"/>
+        <COMPID name="MensajeIH" mc="Standard.Class" uid="c4f3402b-10f8-4f86-8e3b-7836e2c964bc"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

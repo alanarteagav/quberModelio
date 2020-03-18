@@ -14,17 +14,17 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="AlimentoIH" mc="Standard.Class" uid="b3cea87b-b5c6-4a04-b0be-91c4ca3f2b64"/>
-        <COMPID name="MensajeIH" mc="Standard.Class" uid="119758b3-9467-4f53-a44a-f25e75d17ac3"/>
-        <COMPID name="PrincipalIH" mc="Standard.Class" uid="5f9c5447-44f2-4709-a3eb-42b51e506b41"/>
-        <COMPID name="MenuCategoriasIH" mc="Standard.Class" uid="27a78f0a-5464-43e7-a4ba-6c836938a538"/>
-        <COMPID name="MenuPrincipalIH" mc="Standard.Class" uid="b40ef98a-bf87-463a-bad8-57e5b5de915f"/>
-        <COMPID name="AgregarAlimentoIH" mc="Standard.Class" uid="f989fa27-5d3b-4781-94ec-5e0d3c731b9c"/>
-        <COMPID name="VerCarritoIH" mc="Standard.Class" uid="3288754e-fc20-4dcf-8910-61cd6dcd2c63"/>
-        <COMPID name="ConfirmarOrdenIH" mc="Standard.Class" uid="d2cffaee-7d50-4e13-9749-344eab8447ca"/>
-        <COMPID name="CategoriaIH" mc="Standard.Class" uid="56fd7212-d5d4-4661-b2ce-5d07ce8f8b00"/>
-        <COMPID name="ClienteIH" mc="Standard.Class" uid="1d975a1f-7172-4c3c-8f4f-b66444c2fb7f"/>
-        <COMPID name="RegistroRepartidorIH" mc="Standard.Class" uid="a59626e4-4627-4a94-b808-dffef136c49d"/>
+        <COMPID name="AlimentoIH" mc="Standard.Class" uid="a7e563c1-e4dc-4795-a768-6367432adc66"/>
+        <COMPID name="MensajeIH" mc="Standard.Class" uid="5f526384-f96c-4750-88ce-06e00660a799"/>
+        <COMPID name="PrincipalIH" mc="Standard.Class" uid="3fb72261-7fd2-4bfc-8347-ad72caf3c0e3"/>
+        <COMPID name="ClienteIH" mc="Standard.Class" uid="f0bdc9c5-2469-40bb-bef9-0e2836fbe585"/>
+        <COMPID name="CategoriaIH" mc="Standard.Class" uid="1f64e242-9bb6-482e-9913-b10d9eef99d2"/>
+        <COMPID name="ConfirmarOrdenIH" mc="Standard.Class" uid="cc538c08-0aa7-4d74-b340-9b6311814fd9"/>
+        <COMPID name="AgregarAlimentoIH" mc="Standard.Class" uid="3ffe8099-5c02-40c3-9d3e-fffed6f6e213"/>
+        <COMPID name="VerCarritoIH" mc="Standard.Class" uid="534c38f7-5eee-44b3-bd3d-9ea73d0101fd"/>
+        <COMPID name="MenuCategoriasIH" mc="Standard.Class" uid="6d731062-c1db-4bbb-b836-6e8ec3db3dd3"/>
+        <COMPID name="MenuPrincipalIH" mc="Standard.Class" uid="e6484741-64e2-4165-aa8d-ab0b7e38da05"/>
+        <COMPID name="RegistroRepartidorIH" mc="Standard.Class" uid="b81679ba-4c6f-45f6-94ac-6e08355c373a"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

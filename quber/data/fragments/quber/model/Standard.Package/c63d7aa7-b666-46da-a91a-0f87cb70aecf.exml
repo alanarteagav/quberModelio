@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Consultar Alimento" version="4">
+  <OBJECT>
+    <ID name="Consultar Alimento" mc="Standard.Package" uid="c63d7aa7-b666-46da-a91a-0f87cb70aecf"/>
+    <PID name="César" mc="Standard.Package" uid="ed9f595c-1dab-4d05-9a50-5f15db2cf1a6"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Consultar Alimento]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ModeloConsultarAlimento" mc="Standard.Package" uid="35eb7273-7613-43c4-8a79-f8b76b3c952f"/>
+        <COMPID name="VistaConsultarAlimento" mc="Standard.Package" uid="eea03d71-86e7-4d92-8af0-96a5bea5e715"/>
+        <COMPID name="ControladorConsultarAlimento" mc="Standard.Package" uid="6fb89c3a-85cc-43bd-ac08-1bd3f0045fd4"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Consultar Alimento" mc="Standard.ClassDiagram" uid="b0b94df5-34bf-4b48-a2b7-a195dddfda8d"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

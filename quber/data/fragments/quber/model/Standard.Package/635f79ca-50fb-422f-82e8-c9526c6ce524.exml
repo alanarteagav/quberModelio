@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VistaConfirmarDirección" version="4">
+  <OBJECT>
+    <ID name="VistaConfirmarDirección" mc="Standard.Package" uid="635f79ca-50fb-422f-82e8-c9526c6ce524"/>
+    <PID name="Confirmar Dirección" mc="Standard.Package" uid="2855563b-5a6e-496a-a896-5ca1348aa9ca"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[VistaConfirmarDirección]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ConfirmarOrdenIH" mc="Standard.Class" uid="3c42b701-5e35-44c4-9686-e7a291c56a14"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

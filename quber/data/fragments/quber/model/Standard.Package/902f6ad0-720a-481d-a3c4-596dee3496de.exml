@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VistaRegistrarCategoria" version="4">
+  <OBJECT>
+    <ID name="VistaRegistrarCategoria" mc="Standard.Package" uid="902f6ad0-720a-481d-a3c4-596dee3496de"/>
+    <PID name="Registrar Categoría" mc="Standard.Package" uid="40e21946-12ae-49a5-b614-76a8770cd0a4"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[VistaRegistrarCategoria]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="PrincipalIH" mc="Standard.Class" uid="a2b3c0da-7602-45a7-9ee3-c7e6104960c0"/>
+        <COMPID name="CategoriaIH" mc="Standard.Class" uid="8527bd72-4aeb-4116-876f-a5624fd6d4c4"/>
+        <COMPID name="MensajeIH" mc="Standard.Class" uid="8ae14156-c61a-4f18-8d69-ba58e688ab74"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

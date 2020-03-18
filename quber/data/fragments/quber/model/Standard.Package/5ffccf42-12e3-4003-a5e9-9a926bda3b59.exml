@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ModeloActualizarCategoría" version="4">
+  <OBJECT>
+    <ID name="ModeloActualizarCategoría" mc="Standard.Package" uid="5ffccf42-12e3-4003-a5e9-9a926bda3b59"/>
+    <PID name="Actualizar Categoría" mc="Standard.Package" uid="e7cdaa6f-9980-49c6-842e-7ca7c743b607"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ModeloActualizarCategoría]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Categoría" mc="Standard.Class" uid="758782ff-2546-4975-86f4-87caa6155b3d"/>
+        <COMPID name="ConexionBD" mc="Standard.Class" uid="16a10c9d-5e5a-4ee3-9fca-f5f8c00ef3b2"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

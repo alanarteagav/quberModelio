@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorRegistrarCategoria" version="4">
+  <OBJECT>
+    <ID name="ControladorRegistrarCategoria" mc="Standard.Package" uid="e042a0d7-ab39-4e68-b927-acfa24707f09"/>
+    <PID name="Registrar Categoría" mc="Standard.Package" uid="40e21946-12ae-49a5-b614-76a8770cd0a4"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ControladorRegistrarCategoria]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="RegistrarCategoria" mc="Standard.Class" uid="bb239ec0-a19d-47b3-9319-4b4bc5253205"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -14,8 +14,8 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="Actualizar Cuenta" mc="Standard.Package" uid="d6860413-9691-4179-98c2-cbed70f551de"/>
-        <COMPID name="Crear Cuenta" mc="Standard.Package" uid="aca6c5a4-dff8-491f-af6c-178250218899"/>
+        <COMPID name="Actualizar Cuenta" mc="Standard.Package" uid="b5e93ad2-1bfb-40ee-93ff-e2ae96b8e197"/>
+        <COMPID name="Crear Cuenta" mc="Standard.Package" uid="4a405801-8d13-45e0-9e2b-1269c62fbb74"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

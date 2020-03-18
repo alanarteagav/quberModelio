@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VistaVerMenu" version="4">
+  <OBJECT>
+    <ID name="VistaVerMenu" mc="Standard.Package" uid="a71003b4-834c-447a-adb8-6a3dc398a9a2"/>
+    <PID name="Ver Menu" mc="Standard.Package" uid="8e4e2813-8999-4faa-87b4-ede4d6c222c2"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[VistaVerMenu]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="MenuPrincipalIH" mc="Standard.Class" uid="d9aaacc7-1c10-4b2d-b4d7-8bec4a398dfc"/>
+        <COMPID name="MenuCategoriasIH" mc="Standard.Class" uid="dbea3304-f2d9-49f4-ae0b-9a5fba427b60"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

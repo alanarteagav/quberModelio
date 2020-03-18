@@ -14,13 +14,13 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="ConexionBD" mc="Standard.Class" uid="3d9d65b1-8c1c-4473-b2e8-520cf4b421cf"/>
-        <COMPID name="Alimento" mc="Standard.Class" uid="92f3959b-f402-4d71-8f0c-4a8a346304c0"/>
-        <COMPID name="Cliente" mc="Standard.Class" uid="aacab6e9-faaa-4073-9318-5f89c57713f5"/>
-        <COMPID name="Categoria" mc="Standard.Class" uid="c44d8d42-44d1-400d-a5f0-a065da550429"/>
-        <COMPID name="Repartidor" mc="Standard.Class" uid="d21a71ba-0c72-4133-a775-03e8362cf433"/>
-        <COMPID name="Orden" mc="Standard.Class" uid="66271f3d-048a-4a6f-b9c6-2bd2cc21c022"/>
-        <COMPID name="Dirección" mc="Standard.Class" uid="e3a003bd-b6c4-4edb-8338-0c03b2a5bb0d"/>
+        <COMPID name="ConexionBD" mc="Standard.Class" uid="bfb58346-c355-48d6-990e-91d43876e60b"/>
+        <COMPID name="Alimento" mc="Standard.Class" uid="c43de946-e3d2-4af8-bbf7-9daab95c6322"/>
+        <COMPID name="Cliente" mc="Standard.Class" uid="c712edfa-8a22-4101-be48-17669def4a06"/>
+        <COMPID name="Dirección" mc="Standard.Class" uid="88070fd2-3b66-4ee8-9394-fd4c19782687"/>
+        <COMPID name="Orden" mc="Standard.Class" uid="83f8d586-d51b-459b-a712-827a9b022a1d"/>
+        <COMPID name="Categoria" mc="Standard.Class" uid="d3cfce40-6577-4508-946b-14e22488e6ed"/>
+        <COMPID name="Repartidor" mc="Standard.Class" uid="ce7a8844-aa69-4a18-be28-67c7fb82a135"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

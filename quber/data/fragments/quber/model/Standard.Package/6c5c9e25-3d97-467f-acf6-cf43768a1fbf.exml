@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Agregar Comida" version="4">
+  <OBJECT>
+    <ID name="Agregar Comida" mc="Standard.Package" uid="6c5c9e25-3d97-467f-acf6-cf43768a1fbf"/>
+    <PID name="Mauricio" mc="Standard.Package" uid="7573ad57-4f64-420b-8cac-834e6b445b34"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Agregar Comida]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ModeloAgregarComida" mc="Standard.Package" uid="5678f74c-ac91-4b6e-8f99-2261e70c53a8"/>
+        <COMPID name="VistaAgregarComida" mc="Standard.Package" uid="6d93cdd6-d12b-44f2-b28c-cc57ffaa3740"/>
+        <COMPID name="ControladorAgregarComida" mc="Standard.Package" uid="7a118c49-e8aa-459f-8dbb-3ea2b1172a19"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Agregar Comida" mc="Standard.ClassDiagram" uid="c9f55c62-0a8e-4ba9-9c5a-3a77a722e6c3"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
