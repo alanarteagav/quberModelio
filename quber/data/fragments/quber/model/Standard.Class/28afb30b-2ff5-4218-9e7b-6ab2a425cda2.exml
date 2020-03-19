@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ControladorVerCategorias" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VerCategorias" version="4">
   <OBJECT>
-    <ID name="ControladorVerCategorias" mc="Standard.Class" uid="28afb30b-2ff5-4218-9e7b-6ab2a425cda2"/>
+    <ID name="VerCategorias" mc="Standard.Class" uid="28afb30b-2ff5-4218-9e7b-6ab2a425cda2"/>
     <PID name="Controlador" mc="Standard.Package" uid="064798e4-0c77-4528-a5af-6b8f7f2bde26"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[ControladorVerCategorias]]></ATT>
+      <ATT name="Name"><![CDATA[VerCategorias]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
